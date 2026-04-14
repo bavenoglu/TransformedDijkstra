@@ -1,1 +1,1 @@
-The Impact of Network Metrics on the Performance of the APSP-Transformed Dijkstra Algorithm in Random and Scale-Free Networks
+Impact of Network Metrics on APSP Performance of Transformed Dijkstra Algorithm
